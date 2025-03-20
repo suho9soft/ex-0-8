@@ -60,7 +60,9 @@ sudo mysql -u root
 
 CREATE USER 'arduino'@'%' IDENTIFIED BY '123f5678';
 
-//권한 부여
+ //다시//
+ 
+//권한 부여// root //
 
 GRANT CREATE, DROP,ALTER , SELECT, INSERT, UPDATE, DELETE ON . TO 'arduino'@'%';
 
