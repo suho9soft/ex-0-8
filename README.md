@@ -142,6 +142,9 @@ show tables;
 
 desc cds_data;
 
+
+////INSERT INTO cds_data (cds, date) VALUES (123, '2025-04-02');///
+
 select * from cds_data;
 
 // 라즈베리파이5 MQTTX 세팅 방법 //
