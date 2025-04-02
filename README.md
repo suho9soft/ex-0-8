@@ -126,6 +126,10 @@ show tables;
 
 desc final_data;
 
+
+////insert into final_data(rotary,temp,humi,data) values(1,2,3,'4');///
+
+
 select * from final_data;
 
 4// use python31;
