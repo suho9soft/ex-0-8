@@ -129,6 +129,8 @@ desc final_data;
 
 ////insert into final_data(rotary,temp,humi,data) values(1,2,3,'4');///
 
+///delete from final_data;///
+
 
 select * from final_data;
 
